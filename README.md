@@ -1,4 +1,4 @@
-# CIFAR-10 Dataset PyTorch implementation
+# CIFAR-10 Dataset PyTorch implementation using Custom Resnet Model
 The target is to achieve 90% accuracy using custom resnet model in just 24 epochs
 ## Basics
 The CIFAR10 dataset is a popular benchmark dataset for image classification tasks. In this tutorial, we present an EfficientNet architecture tailored for the CIFAR10 dataset. The architecture consists of multiple layers and incorporates the concepts of residual blocks and one cycle policy for optimized performance.
